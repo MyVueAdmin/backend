@@ -1,6 +1,6 @@
 .DS_Store
-nbproject
-nbproject/*
+/nbproject
+/nbproject/*
 
 # local env files
 .env.local
